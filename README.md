@@ -57,7 +57,3 @@ Contributions to the Bash Automation Toolbox are welcome! If you find any issues
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-```
-Feel free to modify the README.md file to add or update any relevant information about your project, including installation instructions, usage examples, contribution guidelines, and license details.
-```
